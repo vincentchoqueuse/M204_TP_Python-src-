@@ -118,7 +118,7 @@ Pour simuler un système décrit par une équation différentielle en Python
         plot(t,yout)                    # affichage de la RI
 
 
-Dans la suite de cet exercice, nous allons considerer un capteur de température dont le comportement est décrit par un système de second ordre de paramètres **K = 0.23** et **tau=0.004 s**.
+Dans la suite de cet exercice, nous allons considerer un capteur de température dont le comportement est décrit par un système de premier ordre de paramètres **K = 0.23** et **tau=0.004 s**.
 
 
 

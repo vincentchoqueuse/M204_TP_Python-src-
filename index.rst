@@ -3,10 +3,11 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Module M105: Instrumentation et Capteurs
+Module M204: Instrumentation et Capteurs
 ========================================
 
-Contents:
+Contenu:
+--------
 
 .. toctree::
 
@@ -14,6 +15,11 @@ Contents:
    TP2/TP2
    TP3/TP3
    TP4/TP4
+
+Programme:
+----------
+
+* L'ensemble des programmes se trouvent dans le répertoire src de l'archive `github <https://github.com/vincentchoqueuse/M204_TP_Python-src-/archive/master.zip>`_
 
 
 Indices and tables
